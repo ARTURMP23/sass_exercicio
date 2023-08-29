@@ -1,0 +1,28 @@
+@use 'reset.scss';
+@use 'products.scss';
+@use 'media.scss';
+@use 'header.scss';
+
+
+body {
+    background-color: #f5f6fa;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+
+section {
+    padding: 56px 0;
+}
+
+
+
